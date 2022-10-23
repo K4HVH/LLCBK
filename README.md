@@ -1,5 +1,5 @@
 
-# LLCBK - V0.1 (Pre-Release)
+# LLCBK - v0.1 (Pre-Release)
 
 LED Lighting Control By K4 - A Multiprocessed, GUI Enabled WS281x Controller in Python 3.0
 
