@@ -1,5 +1,5 @@
 
-# LLCBK 
+# LLCBK - V 0.1 (Pre-Release)
 
 LED Lighting Control By K4 - A Multiprocessed, GUI Enabled WS281x Controller in Python 3.0
 
@@ -21,4 +21,3 @@ Made for use on a Rapberry Pi4b
 
  - [RPi WS281x Python](https://github.com/rpi-ws281x/rpi-ws281x-python)
  - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
-
